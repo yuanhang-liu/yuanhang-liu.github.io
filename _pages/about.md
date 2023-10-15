@@ -9,10 +9,8 @@ redirect_from:
 ---
 Hi! I'm Yuanhang Liu, a Master student in [King's College London](https://www.kcl.ac.uk/) and my major is Robotics. Before that, I got my bachelor degree of Robotics from School of Mechanical and Electrical Engineering at [China University of Mining and Technology, Beijing](https://www.cumtb.edu.cn/)
 
-My primary research interests focus on Deep learning, Intelligent Robot, LLM  and Natural Language Processing (NLP), especial about Sentiment Analisis.
+My primary research interests focus on Deep learning, Intelligent Robot, Large Language Model(LLM) and Natural Language Processing (NLP), especial about Sentiment Analysis.
 
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
