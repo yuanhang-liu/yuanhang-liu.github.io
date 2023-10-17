@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanhang Liu"
   avatar           : "profile.jpg"
-  bio              : "THE UNIVERSE HAS A PLAN"
+  bio              : #"THE UNIVERSE HAS A PLAN"
   location         : "London UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
