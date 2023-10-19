@@ -11,5 +11,5 @@ Hi! I'm Yuanhang Liu, a Master student in [King's College London](https://www.kc
 
 My primary research interests focus on Deep learning, Intelligent Robot, Large Language Model (LLM) and Natural Language Processing (NLP), especial about Sentiment Analysis and Explainability.
 
-
-![My primary research interests focus on Deep learning, Intelligent Robot, Large Language Model (LLM) and Natural Language Processing (NLP), especial about Sentiment Analysis and Explainability.](/images/Natural Language Processing.jpg)
+This is my [CV](/files/CV-Yuanhang Liu.pdf)
+![This is my [CV](/files/CV-Yuanhang Liu.pdf)](/images/Natural Language Processing.jpg)
