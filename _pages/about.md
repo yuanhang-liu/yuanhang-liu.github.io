@@ -14,6 +14,5 @@ My primary research interests focus on Deep learning, Intelligent Robot, Large L
 This is my [CV](/files/CV-Yuanhang Liu.pdf).
 
 
-<body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GTPxnzm6hLw5enXzEKFaDNLeHQxtBnZyAZvRR-cyOzI&cl=ffffff&w=a"></script>
-<body>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=GTPxnzm6hLw5enXzEKFaDNLeHQxtBnZyAZvRR-cyOzI'></script>
