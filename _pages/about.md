@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! I'm Yuanhang Liu, a Master student in [King's College London](https://www.kcl.ac.uk/) and my major is Robotics. Before that, I got my bachelor degree of Robotics from School of Mechanical and Electrical Engineering at [China University of Mining and Technology, Beijing](https://www.cumtb.edu.cn/).
 
-My primary research interests focus on Deep learning, Intelligent Robot, Natural Language Processing (NLP), especial about Sentiment Analysis and Explainability, Brain-Computer Iterface, Human-Computer Interface, Biosignal processing.
+My primary research interests focus on Deep learning, Intelligent Robot, Natural Language Processing (NLP), especial about Sentiment Analysis and Explainability, Brain-Computer Iterface, Human-Computer Interface, Optimal Control.
 
 This is my [CV](/files/CV-Yuanhang Liu.pdf).
 
